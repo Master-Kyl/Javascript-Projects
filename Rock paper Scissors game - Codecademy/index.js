@@ -63,5 +63,8 @@ const getUserChoice = userInput => {
   };
   
   // Start the game
+  // github test
   playGame();
+  
+
   
