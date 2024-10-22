@@ -1,5 +1,5 @@
 
-// This code is made to calculate a person's sleep hours and compare them to their ideal sleep goals. Here’s how it works:
+// This code is made to calculate a person's sleep hours and compare them to their ideal sleep goals.
 
 
 const getSleepHours = (day) => {
